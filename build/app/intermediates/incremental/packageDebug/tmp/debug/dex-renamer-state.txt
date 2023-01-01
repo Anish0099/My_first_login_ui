@@ -1,0 +1,4 @@
+#Sun Jan 01 16:06:46 IST 2023
+base.0=C\:\\Users\\kanis\\AndroidStudioProjects\\First_Ui\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
